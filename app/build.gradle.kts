@@ -93,4 +93,11 @@ dependencies {
 
     //coil
     implementation(libs.coil)
+
+
+    implementation(project(":utilities"))
+}
+
+kapt {
+    correctErrorTypes = true
 }
