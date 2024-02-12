@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CocktailsLab"
 include(":app")
+include(":utilities")
